@@ -1,1 +1,2 @@
-# AuditCourse1
+The project is about the transfer market in football to be precise English football league . 
+I have made a path of how a transfer of a player takes place from one club to other  and also included the top 5 transfers in the news section along with the fantasy premier league top picks . Fantasy premier league is a game in which users select their favourite team players and get scored based on actual games and how the players picked perform.  
